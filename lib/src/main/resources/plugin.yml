@@ -1,0 +1,13 @@
+
+# User-facing information
+name: KotlinPlugin
+author: anthragonix
+version: 0.1.0
+
+# Technnical Details
+main: net.nerdcult.kotlinplugin.KotlinPlugin
+api-version: 1.20
+
+commands:
+  test:
+    description: A simple test of plugin responsiveness.
